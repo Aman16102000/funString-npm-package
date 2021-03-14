@@ -1,6 +1,6 @@
 {
-  "name": "funstring",
-  "version": "1.0.0",
+  "name": "funstringwithpoo",
+  "version": "1.0.4",
   "description": "change string to fun string",
   "main": "index.js",
   "scripts": {
